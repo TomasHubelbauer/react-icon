@@ -2,6 +2,7 @@
   "name": "react-icon-component-idea",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://tomashubelbauer.github.io/react-icon-component-idea",
   "dependencies": {
     "@types/jest": "24.0.11",
     "@types/node": "11.11.3",

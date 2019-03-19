@@ -1,6 +1,6 @@
 # React TypeScript Icon Component Idea
 
-[**DEMO**]()
+[**DEMO**](https://tomashubelbauer.github.io/react-icon-component-idea)
 
 In this repository I prototype an idea I had after seeing the Ant `Icon` component, which looks like this:
 
