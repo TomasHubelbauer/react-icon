@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.c7ebcee0.chunk.css",
-  "main.js": "/static/js/main.f59c2075.chunk.js",
-  "main.js.map": "/static/js/main.f59c2075.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.bd56b2ca.chunk.js": "/static/js/2.bd56b2ca.chunk.js",
-  "static/js/2.bd56b2ca.chunk.js.map": "/static/js/2.bd56b2ca.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.9bebe48e90b27d848095a42a9d7a1b95.js": "/precache-manifest.9bebe48e90b27d848095a42a9d7a1b95.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.c7ebcee0.chunk.css.map": "/static/css/main.c7ebcee0.chunk.css.map"
+  "main.css": "/react-icon-component-idea/static/css/main.c7ebcee0.chunk.css",
+  "main.js": "/react-icon-component-idea/static/js/main.f59c2075.chunk.js",
+  "main.js.map": "/react-icon-component-idea/static/js/main.f59c2075.chunk.js.map",
+  "runtime~main.js": "/react-icon-component-idea/static/js/runtime~main.68635859.js",
+  "runtime~main.js.map": "/react-icon-component-idea/static/js/runtime~main.68635859.js.map",
+  "static/js/2.bd56b2ca.chunk.js": "/react-icon-component-idea/static/js/2.bd56b2ca.chunk.js",
+  "static/js/2.bd56b2ca.chunk.js.map": "/react-icon-component-idea/static/js/2.bd56b2ca.chunk.js.map",
+  "index.html": "/react-icon-component-idea/index.html",
+  "precache-manifest.f5ed9cbfa6db0cbe85ced73eacec8c44.js": "/react-icon-component-idea/precache-manifest.f5ed9cbfa6db0cbe85ced73eacec8c44.js",
+  "service-worker.js": "/react-icon-component-idea/service-worker.js",
+  "static/css/main.c7ebcee0.chunk.css.map": "/react-icon-component-idea/static/css/main.c7ebcee0.chunk.css.map"
 }
