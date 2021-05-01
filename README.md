@@ -119,3 +119,28 @@ I do not use default props at all usually, so this has not been a problem for me
 Another point to be made is that one could of course just as well explore this single `Icon` component to an individual
 component for each icon with its specific props etc. I usually do this, I do not use this hack in production myself, but
 I like the idea.
+
+## To-Do
+
+### Turn this into a library for FatCow icons
+
+### Use `switch (true)` if possible to avoid the array of `if`s
+
+This `switch` may well be slower, but it will be much neater and the speed does
+not really matter for such a small library.
+
+```javascript
+switch (true) {
+  case this.isX(this.props) {
+    return <X />;
+  }
+  case this.isY(this.props) {
+    return <Y />;
+  }
+  case this.isZ(this.props) {
+    return <Z />;
+  }
+}
+
+throw new Error(`Invalid props!`);
+```
